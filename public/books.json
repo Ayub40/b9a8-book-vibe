@@ -1,0 +1,155 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "THE DATING PLAYBOOK FOR MEN",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co/bgjMd8Y/pngwing-1-1.png",
+        "cover": "https://s3-alpha-sig.figma.com/img/093f/28a2/713be2009ed5e0a38a726ba628d93944?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y7k7kDgqZxPs8qerQCxbihcD-330NENI6lJnSrtKKKck1-Wu8Dptn2j276b3AdZNhqNHfY1dzN263aqzm6q1u4K9hK0V2JSmJdZ1b7wiUEN03JvGwWtUyV~T55bCFqKTr6nRIv05AgtB8ma-fBy5cdK0OGcKCwWTqPv7Dw7bEohyvWFEv3X8twqfAhojEOE~WpzbqcLaxeXfLiQThwUhKtSb4OIJPnnHgWY2D-VqiPHKtcRmJEEeXkvLW~u3opbaEwP~Pv7x3hSyb3x5yuTtzf2nTyRcNDRVcVJ1RhdAKxbBLYQ2XtL8Ep3Pt29jCwuPG~fhQimqFwk4fzkCdvnGjg__",
+        "review": "An iconic portrayal of teenage angst and alienation.",
+        "totalPages": 224,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": [
+            "Coming-of-age",
+            "Classic"
+        ],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": 2,
+        "bookName": "WHY DO YOU HATE MONEY?",
+        "author": "Harper Lee",
+        "image": "https://i.ibb.co/qMyXKdw/kindpng-7318921.png",
+        "cover": "https://s3-alpha-sig.figma.com/img/986a/21a1/fdd0e218554fda4443af36899ee3aa12?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XPe8KBhm2O5w1V29d64n9uc2nbuFvwyBTe5JAiWrPClFcWFckaKP81JW1jP8lzSwS4AW0KEfStNRJ9UZUJjWsVQxXNj72GqHFWZdBgpaXNHz4ICCWizaVnUYkOI1b-tB~iDBUypv0MQsvOM4y4aDmF4X-BjgjCU2UBe7I3CtaIg9Jdq7r3vpb6FCeEaop~lLaNiplM7uWx9sTjzxPu8b0TtzJXsy8zerGATQID~hkmJVNIFjTgtC2~LnaB9D80PaTQHWmEjEeZfZIz1KBmm41oOXX8hx2~xSfM2enbvGjSTodRjWI~Qy5oPNUdQnbBwtfnzTk72N9vk2cRU-NDmPPw__",
+        "review": "A powerful narrative that tackles themes of racism and injustice.",
+        "totalPages": 281,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "Social Justice"
+        ],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": 3,
+        "bookName": "The Hate U Give",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co/fCBfg8J/kindpng-1064993.png",
+        "cover": "https://s3-alpha-sig.figma.com/img/6fbe/3ef5/ce3004447af28acdb8c6fce01bf120bd?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MIETSEPaHaVSTP21~IsCoxRpnYkJoIquU58HSKWLYDbYCh9MUmQTGapfJI7Z6jJe6s2-i3br-bMiwWFej1BC57nErU3XpZOhdWkjt4npSf~YyCuvN1ttf824lHY2Q~OB8mN28vADlhwp~rK6kB2~Kjqyhddx-SS3nq0mgbhpl5MLHw7iatJXdVnFPn9foUSTN8S2qa33t1MRWB6UI6CxYxCqw2q4IX-eHDTkArfTwh4ITt48jY~8wHaqEMPVjSQaG8fWLDhDmaqyAzI4qOB4yqIrjZN2b76mQ6Afq0NL1E9wNIrzFusTYQihiVI9LwrG3s~3K9m~B~K9BtL9yAiNGA__",
+        "review": "A dystopian masterpiece that remains chillingly relevant today.",
+        "totalPages": 328,
+        "rating": 4.7,
+        "category": "Fiction",
+        "tags": [
+            "Dystopian",
+            "Political"
+        ],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 4,
+        "bookName": "THE SCHOLARSHIP MONTHLY PLANNER",
+        "author": "Jane Austen",
+        "image": "https://i.ibb.co/GFyTCWD/kindpng-4022054-1.png",
+        "cover": "https://s3-alpha-sig.figma.com/img/e508/e55b/9d64556d757ca419326dbb22159ff2ae?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BqFF0mqeAwQE3ziCeIUv4V~MzqNjTm5~puU2kfE8KaRUp-J3DEoHoLKJGrDO5eqtEr662irXZwepj9sgFmsNeT0nnpoQQieDAlX9y7ZOWfTiTrvKmERg27OD5ZIcjqkyoSBCR0NuWhp6wR7qkMZ7qJMgSj42dAMU7FRAyA5E0IANf4iIe3psjEneuYrPeYP~qF-FBVEjzxkNvtEF0Q0d1SVAXf-VTUcbdL3yDWUjD7ikFsucGKQln7ury4Z8iSE0fjqUJWTp3LitQaaQA6D4bkPhHYO4QgdG7Iwysny~mKDBP99zFS8JXtP-829re7iPN-HNz40FqIlxRgEic1JuwA__",
+        "review": "A delightful comedy of manners with timeless appeal.",
+        "totalPages": 279,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": [
+            "Romance",
+            "Classic"
+        ],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813
+    },
+    {
+        "bookId": 5,
+        "bookName": "Annotated Texas Family Code",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co/BnB3qkR/kindpng-81724-1.png",
+        "cover": "https://s3-alpha-sig.figma.com/img/c448/160f/4f3957e8f023d8d60bae77fda6c15279?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MwMigwpob5i8wYGEeiENgb91KlG0braPSo19EDazhhMYvyWdL1fc1T2fAG9r-VGV8mQObhV5C4KRlBHPy8C0yxQu7S2V5mbRDo5Ja87kOL60t3XkvdiG~KBDH8m3roXsg-Y2HOizdEsRRnmiinMC8XwLrWXFT-pt-bmfkOuPSi8OXp6SM3qPFObVhQocnZECtg89U2amw0Tu6My~eHj5Urf2WfatURAZQHxZ5B-QYiUfut3lZgmxlBrGpBt9inMfBxhXqhVQcTb3XxjdbCJqHHPsvMji-iIsg77KCmxDWTEcCGgj1arLyMbrZeLA8vrIXmqDYSoo1c4eBpy1vf9zWQ__",
+        "review": "A timeless classic that captures the essence of the Jazz Age.",
+        "totalPages": 180,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": [
+            "Romance",
+            "Classic"
+        ],
+        "publisher": "Scribner",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": 6,
+        "bookName": "LOVING JESUS MORE",
+        "author": "J.K. Rowling",
+        "image": "https://i.ibb.co/qYpGhMz/kindpng-2193744-1.png",
+        "cover": "https://s3-alpha-sig.figma.com/img/871b/ca48/d3c7344e22a9684793d7a7fb662caac7?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=H4I~HRxSynVmMs0Mbz3sd56ulPg9iyYDsiHhvNqBC5A1u5OEZaXZz8FSin~yCi~6zCpbpnOjS8RpN-1FeIsG2xxN~niwGK2-1HEUvsyvdvsL~KWeixgli5QUNdaFNJCeL7oeyNPuTm2j0IMm9OcT~v7whdYAj1yM7DSxzA1b2WNDLNq~lTBJOgcM1kaoW17PuCrvNznc1eDS0~729OS6MwS-3T9pC385-iCveA8nCgsuXdSmV6uggbr9RsAVbOp2withcqdMIksEiM~JWdpL9Ph7h0ungLdw5d5~1J67UEwyWO4TS7ElKtxR9Zh~gH9KVgORH6ECWHOiwNQH0M-ZsQ__",
+        "review": "A magical journey into a world of wizardry and wonder.",
+        "totalPages": 320,
+        "rating": 4.9,
+        "category": "Fantasy",
+        "tags": [
+            "Magic",
+            "Adventure"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "yearOfPublishing": 1997
+    },
+    {
+        "bookId": 7,
+        "bookName": "THE LOST ART OF GOOD CONVERSATION",
+        "author": "J.R.R. Tolkien",
+        "image": "https://i.ibb.co/SPX67m1/kindpng-5624060-1.png",
+        "cover": "https://s3-alpha-sig.figma.com/img/c5cd/577b/642f797cd362e163b10280a18e873752?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=c3OCW4BXlSs7mUgqhxDS2lgCw3EVLu2sKbAJ76vvpYYw13bJ~L0WcUP~2Y-aSgHB24D8i28Zi0~FJK0LBJ3tW6erbWdHhr-Jd6JXGaGGflVl36CI3chZLva8NjPVyVtkyJ2rKi0WyINmmweSJm35ljw2aAJXWgra4nRBJfOTPysKEacs4jmcBu~TnvOO530ZPBI27SzYAXpwUZ7bNgrwaphQ8xHwKUwFntekKa-ndlpVtuqVMLARdDlSHRWwiu7iZaZlvW61vPpnAgaBZYuPj3FTgZpStVbg0UjddHVYxThuppoUr1sIMhT4-ijky3OOdgFk6-fAEkI426BWWh9Nlw__",
+        "review": "An enchanting prelude to the epic Lord of the Rings saga.",
+        "totalPages": 310,
+        "rating": 4.8,
+        "category": "Fantasy",
+        "tags": [
+            "Adventure",
+            "Classic"
+        ],
+        "publisher": "Allen & Unwin",
+        "yearOfPublishing": 1937
+    },
+    {
+        "bookId": 8,
+        "bookName": "COLD-CASE CHRISTIANITY",
+        "author": "Dan Brown",
+        "image": "https://i.ibb.co/QNGMSL3/kindpng-2592315-1.png",
+        "cover": "https://s3-alpha-sig.figma.com/img/fcc7/1b52/704abe9e421fa597d747e8b4e9bbcfb3?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NBKpRnaQp9~BP56uYXdVJoksNZ8JJz148oD5R~jFPb0ziYvWRKU6LBufPMoh-HuFlYtn5JqMj4937-FT-dPN7JWg6FsFlFzNSLC~94tuIqbDypbV1sF5lHWCwfUHWzDQ44w~YMRlF~blbnxpq0AafbLTL2auRCHGlaxvjx6gqhNylCjpA5VJJvGQFGtubKH0yHVasalMz~8ovDagwB8Mnfc~uRRxD1w9PYuyHEyq-UJvFJD9ZkC6yOqj9UhegepJOCxbGooJxfUUAtCgk2nw5Rd9w6YD00ylOVkUrUTcFXEHDd0BnzjintNvxKtcIUk4I1nuNNNKTnsGskla~RPX0A__",
+        "review": "A gripping thriller that keeps you guessing until the last page.",
+        "totalPages": 454,
+        "rating": 4.3,
+        "category": "Thriller",
+        "tags": [
+            "Mystery",
+            "Conspiracy"
+        ],
+        "publisher": "Doubleday",
+        "yearOfPublishing": 2003
+    },
+    {
+        "bookId": 9,
+        "bookName": "SPIN OF THE DRAGON",
+        "author": "Gillian Flynn",
+        "image": "https://i.ibb.co/qg39Zc0/kindpng-4945926-1.png",
+        "cover": "https://s3-alpha-sig.figma.com/img/0997/9ba9/3bcfd9c77441e2cf5d6ab35d6cfaca63?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=U1FI5fppvLuA-uBVmVz51nsgG63jZS38KvDqmpAKD1-1YO5L6VDdXyrtFMb6hVaHHCFnxn~dAQ6Fc8b74ZG3bVbJxQD4jT-wJ2XSact1pa7wVpoe6wqdg0cjURKGK3P3eBzUae1yWXT8KPsp4brpRTdrxaCuKl5UwSOg59cd97OBk0dbABPOmkArrO3D10C0tTGvjBsPrD2JVMY7q2Uju0VOPX76WM6kErTvQ7Wyc4UJ~WCgxaIsZzTCtJKBMNib~PnxaPdCpFDu23isDGF7MUSDpcs2jiPFyUsRGRwiKD58W7VEScQbnvTMi-Ga2JxlXcvXnoqW1j9qvHmv1y4NeQ__",
+        "review": "A twisted tale of marriage, deception, and revenge.",
+        "totalPages": 419,
+        "rating": 4.6,
+        "category": "Mystery",
+        "tags": [
+            "Psychological",
+            "Suspense"
+        ],
+        "publisher": "Crown Publishing Group",
+        "yearOfPublishing": 2012
+    }
+]
